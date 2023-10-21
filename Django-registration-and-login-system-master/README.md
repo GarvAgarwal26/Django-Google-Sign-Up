@@ -1,2 +1,2 @@
-Django registration
+#Django Registration
 
